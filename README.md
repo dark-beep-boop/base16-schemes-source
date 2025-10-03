@@ -73,6 +73,7 @@ To add your own scheme, submit a pull request and add your repository to the lis
 * [Summerfruit](https://github.com/cscorley/base16-summerfruit-scheme) maintained by [cscorley](https://github.com/cscorley)
 * [Synth Midnight](https://github.com/michael-ball/base16-synth-midnight-scheme) maintained by [michael-ball](https://github.com/michael-ball)
 * [Tender](https://github.com/DanManN/base16-tender-scheme) maintained by [DanManN](https://github.com/DanManN)
+* [Tokyonight Night](https://github.com/dark-beep-boop/base16-tokyonight-night-scheme) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [Twilight](https://github.com/hartbit/base16-twilight-scheme) maintained by [hartbit](https://github.com/hartbit)
 * [Unikitty](https://github.com/joshwlewis/base16-unikitty) maintained by [joshwlewis](https://github.com/joshwlewis)
 * [Vice](https://github.com/Thomashighbaugh/base16-vice-scheme) maintained by [Thomashighbaugh](https://github.com/Thomashighbaugh)
